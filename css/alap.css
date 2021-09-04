@@ -1,0 +1,26 @@
+div.index {
+    background-image: url('/img/gomboc_background.jpeg');
+    opacity: 80%;
+    min-height: 100%;
+  }
+p {
+    color: rgb(33, 33, 34);
+}
+
+h3 {
+    color: darkred;
+    text-align: left;
+}
+
+.menuBackground {
+    background-color: black;
+}
+
+.buttonBackground {
+    background-color: rgb(40, 38, 38);
+}
+
+.imageSize {
+    width: 250px;
+    height: auto;
+}
