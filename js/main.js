@@ -34,7 +34,7 @@ function compareNumber(userTipp) {
         writeTipp.innerHTML = "Gratulalok, eltalaltad!";
     }
     writeCountTipp(userTipp);
-    console.log(userTipp);
+  //  console.log(userTipp);
     userTippClear();
     return userTipp;
 }
