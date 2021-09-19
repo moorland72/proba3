@@ -1,0 +1,29 @@
+.fejlec {
+    color: blue;
+}
+
+body {
+    background-color: rgb(131, 150, 209);
+}
+
+.demo-card-wide.mdl-card {
+    width: 800px;
+    background-color: rgb(255, 255, 255);
+  }
+  .demo-card-wide > .mdl-card__title {
+    color: rgb(254, 254, 254);
+    height: 280px;
+    background: url('../images/welcome_card.jpg') center / cover;
+  }
+  .demo-card-wide > .mdl-card__menu {
+    color: rgb(253, 253, 253);
+  }
+
+  .mdl-card {
+      width: 800px;
+      background-color: rgb(255, 255, 255);
+  }
+
+  .mdl-grid {
+      
+  }
