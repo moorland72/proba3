@@ -1,7 +1,7 @@
 let gondoltSzam = Math.round((Math.random() * 100) + 1) ;
 let countTipp = 1;
 
-console.log(gondoltSzam);
+//console.log(gondoltSzam);
 
 function userTippClear(){
     let userTipp = document.getElementById("userTipp");
